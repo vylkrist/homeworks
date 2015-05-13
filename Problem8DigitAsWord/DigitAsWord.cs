@@ -6,7 +6,7 @@
         {
             try
             {
-                byte digit = byte.Parse(Console.ReadLine());
+                byte digital = byte.Parse(Console.ReadLine());
                 switch (digit)
                 {
                     case 0:
